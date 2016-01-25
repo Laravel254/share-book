@@ -28,7 +28,7 @@ The share book is built on top of [gitbook](https://www.gitbook.com).
  4. In your local repository create your page under the correct content folder.
  5. Create a link to your page in the table of contents. Please add your page in alphabetical order. Only the project maintainers are allowed to change the page ordering.
  6. Test your page can be viewed by running `npm run docs:watch`
- 7. Git commit with approprieate message and push. 
+ 7. Git commit with appropriate message and push. 
  8. Create a pull request to the main project. Pull request will be discussed and reviewed before acceptance.
  9. Once accepted go to the online community version to check your page for comments. 
  10. Congratulations and Thank you for your contributions.
