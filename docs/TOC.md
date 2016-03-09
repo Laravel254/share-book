@@ -1,7 +1,11 @@
 # Table of content 
 * [Welcome](docs/welcome.md)
 * [Code Snippets](docs/snippets/README.md)
-	* [Example 1](docs/snippets/example1.md)
+	* [App Debug](docs/snippets/artisan-app-debug.md)
+	* [App Install](docs/snippets/artisan-app-install.md)
+	* [App Url](docs/snippets/artisan-app-url.md)
+	* [Database Create](docs/snippets/artisan-db-create.md)
+	* [Database Drop](docs/snippets/artisan-db-drop.md)
 * [Open Source Repos](docs/repos/README.md)
 	* [Sample 1](docs/repos/sample1.md)
 * [Projects website links](docs/projects/README.md)
